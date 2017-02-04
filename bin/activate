@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/giresh/Documents/dev/prj/pych/bank_demo"
+VIRTUAL_ENV="digitalbanking-transferservice/"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
